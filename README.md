@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Divyam Pratap 👋<br><br>I am a Computer Science Post-Graduate specializing in **DevSecOps, Cloud Architecture, and Information Security**. <br>I bridge the gap between development and operations by integrating **security early into the CI/CD pipeline (Shift-Left Security)**. I design automated systems, secure web solutions (Python/Laravel), and manage active server environments using Termux.<br><br>Driven by automation and secure-by-default systems. Let's connect! 🚀<br>
+# Hi, I'm Divyam Pratap 👋<br><br>I am a Computer Science Post-Graduate specializing in **DevSecOps, Cloud Architecture, and Information Security**. <br>I bridge the gap between development and operations by integrating **security early into the CI/CD pipeline (Shift-Left Security)**. I design automated systems, secure web solutions (Python/Laravel), and manage active server environments using Termux/Linux.<br><br>Driven by automation and secure-by-default systems. Let's connect! 🚀<br>
 
 
 # 💻 Tech Stack:
